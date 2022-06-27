@@ -1,6 +1,6 @@
 ﻿using CompGraphics.Objects.MathObjects;
 
-namespace CompGraphicsTests.MathObjectsTests;
+namespace CompGraphicsTests.ObjectsTests.MathObjectsTests;
 
 
 [TestFixture]
