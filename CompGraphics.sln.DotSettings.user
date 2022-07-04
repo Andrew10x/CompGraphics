@@ -1,9 +1,24 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=380197f7_002D64b6_002D4013_002D81c7_002Ded7f720556fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PlaneIntersectionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.ShapesTests.PlaneTests.PlaneIntersectionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.ShapesTests.PlaneTests.PlaneMinDistanceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.MathObjectsTests.CPointTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.MathObjectsTests.CVectorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.SceneTests.SceneShowNearestTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4e690838_002D87bc_002D4d9f_002Dab59_002D09001fe65362/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;ProjectFolder&gt;8EB7593E-A290-45F4-8F60-56711B15331C/d:ObjectsTests&lt;/ProjectFolder&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8b18366_002D9eb3_002D4a82_002D8abf_002Dd1f47f59e38a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PlaneMinDistanceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d6783f2_002Dec9e_002D4fec_002D9744_002Df4041dc9cb62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SphereIntersectionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.ShapesTests.SphereTests.SphereIntersectionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8b18366_002D9eb3_002D4a82_002D8abf_002Dd1f47f59e38a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlaneMinDistanceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.ShapesTests.PlaneTests.PlaneMinDistanceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.ShapesTests.TriangleTests.TriangleIntersectionTests.SphereHasIntersection&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
