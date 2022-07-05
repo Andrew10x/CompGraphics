@@ -6,10 +6,17 @@
     &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.MathObjectsTests.CPointTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.MathObjectsTests.CVectorTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.SceneTests.SceneShowNearestTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.TransformTests.TransformTests.Scale&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.TransformTests.TransformTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4e690838_002D87bc_002D4d9f_002Dab59_002D09001fe65362/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;ProjectFolder&gt;8EB7593E-A290-45F4-8F60-56711B15331C/d:ObjectsTests&lt;/ProjectFolder&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=850f88ee_002D08ca_002D4584_002Db85f_002Da965619bf579/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Rotation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8EB7593E-A290-45F4-8F60-56711B15331C::net6.0::CompGraphicsTests.ObjectsTests.TransformTests.TransformTests.Rotation&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d6783f2_002Dec9e_002D4fec_002D9744_002Df4041dc9cb62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SphereIntersectionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
